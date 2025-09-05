@@ -2,7 +2,7 @@
 
 A simple and fast React + Redux application for creating, saving, sharing, and managing text snippets (pastes). Built with Vite for optimal development speed and performance, this app allows users to quickly Note down notes, code, or any text, and easily share or organize them.
 
-**Live Demo:** [https://react-redux-pasteapp.vercel.app](https://react-redux-pasteapp.vercel.app)
+**Live Demo:** [https://react-pasteapp.vercel.app](https://react-pasteapp.vercel.app)
 
 ---
 
