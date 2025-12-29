@@ -24,11 +24,6 @@ Designed with a focus on **clean UI, structured React architecture, and real-wor
 - Tailwind CSS  
 - Redux (state management)## 📸 Screenshots
 
-### 🏠 Home / Create Paste View
-![Paste App Home](./screenshots/paste-app-home.png)
-
-> Main interface where users can create and manage text pastes with a clean, distraction-free UI.
-
 ### Tools
 - Git & GitHub  
 - Vercel (deployment)
