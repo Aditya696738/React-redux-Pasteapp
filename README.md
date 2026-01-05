@@ -79,7 +79,7 @@ npm run dev
 ## 👤 Author
 
 **Aditya Kumar**  
-web Developer | React | Redux  
+Self-Taught Full Stack Developer (MERN)
 
 📧 Aditya7281kumar@gmail.com
 
